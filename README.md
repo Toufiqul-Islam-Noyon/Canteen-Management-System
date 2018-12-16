@@ -19,18 +19,27 @@ Admin pin is: "A11" and Manager Pin is: "p22"
 
                                    ::Features::
                                    
-::ADMIN Features::                ::Manager Features::                 ::Deputed_GM Features::
-1. Log In                         1. Log In                            1. Order
-2. Cancel                         2. Cancel                            2. Cancel
+::ADMIN Features::                                
+1. Log In                                                   
+2. Cancel                                                     
 
-1. See Food                       1. Add Food                           
-2. Sell Information               2. See Food                           
-3. Stuff Information              3. Sell Information
-4. Cancel                         4. Stuff Information
-                                  5. Cancel
-
+1. See Food                                                 
+2. Sell Information                                          
+3. Stuff Information              
+4. Cancel                         
+                                  
+                                  
+::Manager Features::
+1. Log In 
+2. Cancel
                                    
+1. Add Food 
+2. See Food
+3. Sell Information
+4. Stuff Information
+5. Cancel
 
 
-
-
+::Deputed_GM Features::
+1. Order
+2. Cancel
